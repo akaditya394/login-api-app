@@ -1,0 +1,8 @@
+.input {
+  margin: 0.5rem 0;
+}
+
+.input [type="checkbox"] {
+  accent-color: rgb(0, 80, 80) !important;
+  margin: 0 !important;
+}
